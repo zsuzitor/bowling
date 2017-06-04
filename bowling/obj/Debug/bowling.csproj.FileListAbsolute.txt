@@ -1,0 +1,9 @@
+C:\csharp\bowling\bowling\bin\Debug\bowling.exe.config
+C:\csharp\bowling\bowling\bin\Debug\bowling.exe
+C:\csharp\bowling\bowling\bin\Debug\bowling.pdb
+C:\csharp\bowling\bowling\obj\Debug\bowling.csprojResolveAssemblyReference.cache
+C:\csharp\bowling\bowling\obj\Debug\bowling.Form1.resources
+C:\csharp\bowling\bowling\obj\Debug\bowling.Properties.Resources.resources
+C:\csharp\bowling\bowling\obj\Debug\bowling.csproj.GenerateResource.Cache
+C:\csharp\bowling\bowling\obj\Debug\bowling.exe
+C:\csharp\bowling\bowling\obj\Debug\bowling.pdb
